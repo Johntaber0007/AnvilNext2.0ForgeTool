@@ -18,10 +18,10 @@ Repack Forge file
 3.Finish
 
 # Plan for tool development
--Add support for Unpack/Repack Data file
+-Add support for Unpack/Repack Data file (work in progress)
 
--Add localization support
+-Add localization support (work in progress)
 
--Add support for changing fonts for games
+-Add support for changing fonts for games (work in progress)
 
--Add support for creating new patches
+-Add support for creating new patches (work in progress)

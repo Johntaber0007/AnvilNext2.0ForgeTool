@@ -16,3 +16,12 @@ Repack Forge file
 2.Click Import And Select the folder you want to repack
 
 3.Finish
+
+# Plan for tool development
+-Add support for Unpack/Repack Data file
+
+-Add localization support
+
+-Add support for changing fonts for games
+
+-Add support for creating new patches
